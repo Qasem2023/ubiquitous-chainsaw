@@ -1,0 +1,7 @@
+صدى "# ubiquitous-chainsaw" >> README.md 
+git init 
+إضافة README.md 
+git الالتزام -m "الالتزام الأول" 
+git Branch -M main 
+git remote add origin https://github.com/Qasem2023/ubiquitous-chainsaw. git
+ git push -u origin main. بوابة بوابة الدفع
